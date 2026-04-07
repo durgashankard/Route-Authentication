@@ -164,4 +164,9 @@ Using cookies in React helps:
 
 ---
 
+## Author 
+** Durgashankar Dangi **
+
+---
+
 ⭐ If you like this project, don’t forget to **star the repo!**
