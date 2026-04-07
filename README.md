@@ -164,8 +164,9 @@ Using cookies in React helps:
 
 ---
 
-## Author 
-** Durgashankar Dangi **
+## 👨‍💻 Author
+
+**Durgashankar Dangi**
 
 ---
 
